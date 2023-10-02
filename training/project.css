@@ -1,0 +1,24 @@
+.digitalclock {
+    font-family: Arial, sans-serif;
+    font-size: 48px;
+    text-align: center;
+    margin-top: 50px;
+    }
+    #time {
+    color: white;
+    font-size: 25vh;
+    }
+    
+    h2 {
+    color: white;
+    font-size: 8vh;
+    text-align: center;
+    font-weight: 100px;
+    }
+    body {
+    background-color: black;
+    border-radius: 10px;
+    }
+    .date {
+    color: white;
+    }
